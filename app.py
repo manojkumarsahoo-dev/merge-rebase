@@ -1,11 +1,11 @@
 # Variables and basic math
 x = 10
 y = 50
-total = x + y
+total = x * y
 
 # Control flow (If/Else)
-if total > 20:
-    print(f"The sum is {total}, which is greater than 10.")
+if total > 100:
+    print(f"The product is {total}, which is greater than 100.")
 else:
-    print("The sum is big.")
+    print("The product is big.")
 
